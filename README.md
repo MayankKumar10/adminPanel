@@ -4,9 +4,6 @@ Free and open-source admin dashboard template built with React and Bootstrap 4. 
 
 **Development at risk! Our developer wants to eat and accepted a job offer from McDonalds! Buy a [full version of Flatlogic One React](https://flatlogic.com/templates/flatlogic-one-react) to help us hire him again!** *
 
-[View Demo](https://flatlogic.github.io/one-react-template/) | [Download](https://github.com/flatlogic/one-react.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
-
-[![image](https://user-images.githubusercontent.com/43149862/80715665-5d031c80-8aff-11ea-801b-dd22163b4874.png)](https://flatlogic.github.io/one-react-template/)
 
 This dashboard is a free version (containing only few components) of our [Flatlogic One React](https://flatlogic.com/templates/flatlogic-one-react). There are all ready-to-use components, that are in full version. It is built on the top of React 16, so it well supported along the web. You can easy customize template by changing SCSS variables. All paddings and colors are in _variables.scss file.
 
